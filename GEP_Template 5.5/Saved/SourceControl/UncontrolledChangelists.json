@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Volumes/Data/Uni/Year 2/Game Engine Programming/Teaching Block 2/Unreal/gep-25-26-unreal-template-Harry-Skerritt/GEP_Template 5.5/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset",
+				"/Volumes/Data/Uni/Year 2/Game Engine Programming/Teaching Block 2/Unreal/gep-25-26-unreal-template-Harry-Skerritt/GEP_Template 5.5/Content/Blueprints/StateMachine/BP_GameState.uasset",
+				"/Volumes/Data/Uni/Year 2/Game Engine Programming/Teaching Block 2/Unreal/gep-25-26-unreal-template-Harry-Skerritt/GEP_Template 5.5/Content/Blueprints/StateMachine/BP_PlayState.uasset",
+				"/Volumes/Data/Uni/Year 2/Game Engine Programming/Teaching Block 2/Unreal/gep-25-26-unreal-template-Harry-Skerritt/GEP_Template 5.5/Content/Blueprints/StateMachine/BP_StateMachine.uasset",
+				"/Volumes/Data/Uni/Year 2/Game Engine Programming/Teaching Block 2/Unreal/gep-25-26-unreal-template-Harry-Skerritt/GEP_Template 5.5/Content/Blueprints/StateMachine/BP_PauseState.uasset",
+				"/Volumes/Data/Uni/Year 2/Game Engine Programming/Teaching Block 2/Unreal/gep-25-26-unreal-template-Harry-Skerritt/GEP_Template 5.5/Content/ThirdPerson/Input/Actions/IMC_Game.uasset",
+				"/Volumes/Data/Uni/Year 2/Game Engine Programming/Teaching Block 2/Unreal/gep-25-26-unreal-template-Harry-Skerritt/GEP_Template 5.5/Content/ThirdPerson/Input/Actions/IA_Pause.uasset",
+				"D:/GEP-Unreal-5.4.4-Template/GEP_Template/Content/StarterContent/Architecture/Floor_400x400.uasset"
+			]
+		}
+	]
+}
