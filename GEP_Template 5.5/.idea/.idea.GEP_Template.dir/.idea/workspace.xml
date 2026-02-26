@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2468ca14-5c92-4445-889d-30e18b7c04a4" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/StateMachine/BP_AGameState.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/StateMachine/BP_AGameState.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/StateMachine/BP_PauseState.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/StateMachine/BP_PauseState.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/StateMachine/BP_PlayState.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/StateMachine/BP_PlayState.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/PackageRestoreData.json" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Autosaves/PackageRestoreData.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Saved/Config/MacEditor/EditorPerProjectUserSettings.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Config/MacEditor/EditorPerProjectUserSettings.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/SourceControl/UncontrolledChangelists.json" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/SourceControl/UncontrolledChangelists.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +15,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/../../../../../../../Applications/Unreal/UE_5.5/Engine/Source/Runtime/CoreUObject/Public/UObject/NoExportTypes.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../../../../../Applications/Unreal/UE_5.5/Engine/Source/Runtime/Engine/Classes/GameFramework/Actor.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../../../../../../Applications/Unreal/UE_5.5/Engine/Source/Runtime/Engine/Classes/GameFramework/GameState.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../../../../../../Applications/Unreal/UE_5.5/Engine/Source/Runtime/UMG/Public/Blueprint/UserWidget.h" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -30,16 +27,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="2468ca14-5c92-4445-889d-30e18b7c04a4" name="Changes" comment="" />
@@ -51,6 +48,7 @@
       <workItem from="1771243030241" duration="1000" />
       <workItem from="1771244586621" duration="4000" />
       <workItem from="1771247792240" duration="6000" />
+      <workItem from="1772107023559" duration="2000" />
     </task>
     <servers />
   </component>
